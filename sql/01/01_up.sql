@@ -1,4 +1,4 @@
 CREATE TABLE hoge (
-    id INT NOT NULL PRIMARY KEY,
+    id SERIAL NOT NULL PRIMARY KEY,
     name TEXT
 );
