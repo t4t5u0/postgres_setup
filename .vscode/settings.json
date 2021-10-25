@@ -7,7 +7,7 @@
       "driver": "PostgreSQL",
       "name": "pgTest",
       "database": "pg",
-      "username": "b1019206",
+      "username": "b1019xxx",
       "password": "pass"
     }
   ]
